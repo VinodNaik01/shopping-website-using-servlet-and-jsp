@@ -1,5 +1,6 @@
 # 🛒 ShopNOW (E-commerce Website)
-##by Vinod S M
+
+## by Vinod S M
 
 ## i built this to understand how the servlets and jsp lead to spring and spring boot. learning value 8/10(for me).
 
@@ -138,5 +139,5 @@ For queries or collaborations, feel free to reach out:
 
 If you found this project helpful, please ⭐ star this repo and follow for more!
 
-# if any one want's to make changes or make it better PULL REQUEST i'll check it.
+
 
