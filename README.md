@@ -1,7 +1,10 @@
-# 🛒 Online Shopping Platform (E-commerce Website)
+# 🛒 ShopNOW (E-commerce Website)
+##by Vinod S M
+
+## i built this to understand how the servlets and jsp lead to spring and spring boot. learning value 8/10(for me).
 
 ## 📌 About
-This is a full-featured **Online Shopping Web Application** built using **Java (Servlets & JSP)**, **JDBC**, **MySQL**, **HTML**, **CSS**, and **Bootstrap**. The platform supports both **users** and **admins**, offering dynamic product browsing, cart management, order processing, and admin control.
+This is a full-featured ** ShopNOW - an Online Shopping Web Application** built using **Java (Servlets & JSP)**, **JDBC**, **MySQL**, **HTML**, **CSS**, and **Bootstrap**. The platform supports both **users** and **admins**, offering user authentication, dynamic product browsing, cart management, order processing, and admin control.
 
 ---
 
@@ -12,6 +15,10 @@ This is a full-featured **Online Shopping Web Application** built using **Java (
   - Admins must log in with:
     - **Email**: `admin@gmail.com`
     - **Password**: `admin`
+
+- 🔐 **User Authentication**
+  - cheks user and password for authentication
+  
 
 - 🛍️ **Product Browsing**
   - View all available products on the home page.
@@ -93,10 +100,6 @@ This is a full-featured **Online Shopping Web Application** built using **Java (
 
 ---
 
-## 🚧 Note
-> The payment integration is for demonstration purposes only and is **not connected to a real payment gateway**.
-
----
 
 ## 📂 Project Structure
 
@@ -134,4 +137,6 @@ For queries or collaborations, feel free to reach out:
 ## 🌟 Show some love!
 
 If you found this project helpful, please ⭐ star this repo and follow for more!
+
+# if any one want's to make changes or make it better PULL REQUEST i'll check it.
 
